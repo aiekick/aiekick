@@ -2,8 +2,8 @@
 
 I'm a self learning french dev who like to do many sort of things on my spare time :
 * Procedural stuff (by code or nodes) : vfx, 3d models, textures, etc...
-* Write softwares for artist (NoodlesPlate, SdfFontDesigner, SdfMesher)
-* Write softwares for made the developper life easier  (ImGuIFileDialog, ImGuiFontStudio)
+* Write softwares for artist (NoodlesPlate, SdfFontDesigner, SdfMesher, wxShade)
+* Write softwares for made the developper life easier  (ImGuiFontStudio, ImGuIFileDialog, cTools, MagicaVoxel_File_Writer)
 * Or just for fun haha
 
 I’m currently working with the Studio [Element115](https://element115.design/) on the video game [Moonray](https://www.moonray.game/)
