@@ -8,7 +8,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
 
 I’m currently working with the Studio [Element115](https://element115.design/) on the video game [Moonray](https://www.moonray.game/)
 
-How to reach me: : [Twitter](https://twitter.com/aiekick), [Instagram](https://www.instagram.com/aiekick), [Shadertoy](https://www.shadertoy.com/user/aiekick), [Artstation](https://www.artstation.com/aiekick), [Sketchfab](https://sketchfab.com/Aiekick/models), [Vimeo](https://vimeo.com/aielevel), [linkedin](https://www.linkedin.com/in/aiekick/)
+How to reach me: : [Twitter](https://twitter.com/aiekick), [OpenSea (NFT)](https://opensea.io/accounts/Aiekick), [Instagram](https://www.instagram.com/aiekick), [Shadertoy](https://www.shadertoy.com/user/aiekick), [Artstation](https://www.artstation.com/aiekick), [Sketchfab](https://sketchfab.com/Aiekick/models), [Vimeo](https://vimeo.com/aielevel), [linkedin](https://www.linkedin.com/in/aiekick/)
 
 via Discord too : Aiekick#5751
 
