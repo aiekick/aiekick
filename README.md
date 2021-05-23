@@ -10,7 +10,7 @@ I’m currently working with the Studio [Element115](https://element115.design/)
 
 How to reach me: : [Twitter](https://twitter.com/aiekick), [OpenSea (NFT)](https://opensea.io/accounts/Aiekick), [Instagram](https://www.instagram.com/aiekick), [Shadertoy](https://www.shadertoy.com/user/aiekick), [Artstation](https://www.artstation.com/aiekick), [Sketchfab](https://sketchfab.com/Aiekick/models), [Vimeo](https://vimeo.com/aielevel), [linkedin](https://www.linkedin.com/in/aiekick/)
 
-via Discord too : Aiekick#5751
+Via Discord : Aiekick#5751
 
 If you want discuss with me, you can contact me via this [mail](mailto:aiekick@funparadigm.com) :)
 
