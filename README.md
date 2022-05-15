@@ -2,8 +2,8 @@
 
 I'm a self learning french dev who like to do many sort of things on my spare time :
 * Procedural stuff (by code or nodes) : vfx, 3d models, textures, etc...
-* Write softwares for artist (NoodlesPlate, SdfFontDesigner, SdfMesher, wxShade)
-* Write softwares for made the developper life easier  (ImGuiFontStudio, ImGuIFileDialog, cTools, MagicaVoxel_File_Writer)
+* Write softwares for artist ([NoodlesPlate](https://github.com/aiekick/NoodlesPlate), [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner), [SdfMesher](https://github.com/aiekick/SdfMesher_Models), [wxShade](https://github.com/aiekick/wxShade))
+* Write softwares for made the developper life easier  ([ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio), [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog), [cTools](https://github.com/aiekick/cTools), [MagicaVoxel_File_Writer](https://github.com/aiekick/MagicaVoxel_File_Writer), [MagicaVoxel_File_Writer for rust](https://github.com/aiekick/MagicaVoxel_File_Writer_for_Rust), [GlslOptimizerV2](https://github.com/aiekick/GlslOptimizerV2), [ImTools](https://github.com/aiekick/ImTools))
 * Or just for fun haha
 
 I was working with the Studio [Element115](https://element115.design/) on the video game's [Moonray](https://www.moonray.game/moonray) and [Journey to Moonray](https://www.moonray.game/journey-to-moonray) as a VFX artist
