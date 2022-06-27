@@ -22,3 +22,5 @@ you can donate if you want support me (two ways for that, the classic button or 
 ![image](https://user-images.githubusercontent.com/1434736/140824673-fc960bea-3377-49a3-9b2a-c50eb081d9f1.png)
 
 Enjoy :)
+
+![Aiekick's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiekick&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiekick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
