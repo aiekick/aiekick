@@ -9,7 +9,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
 
 I was working with the Studio [Moonray PBC](https://www.linkedin.com/company/moonraygame/) on the video game's [Moonray](https://www.moonray.game) and [Journey to Moonray](https://store.steampowered.com/app/1629510/Journey_to_Moonray/) as a VFX artist
 
-How to reach me: : [Twitter](https://twitter.com/aiekick), [Instagram](https://www.instagram.com/aiekick), [Shadertoy](https://www.shadertoy.com/user/aiekick), [Artstation](https://aiekick.artstation.com/), [Sketchfab](https://sketchfab.com/Aiekick/models), [Vimeo](https://vimeo.com/aielevel), [linkedin](https://www.linkedin.com/in/aiekick/), [OpenSea (NFT)](https://opensea.io/accounts/Aiekick), [itch.io](https://aiekick.itch.io), [Savee](https://savee.it/aiekick/), [StackOverFlow](https://stackoverflow.com/users/3904977/aiekick), [Mastodon](https://mastodon.gamedev.place/@aiekick), [TikTok](https://www.tiktok.com/@aiekickk)
+How to reach me: : [Twitter](https://twitter.com/aiekick), [Instagram](https://www.instagram.com/aiekick), [Shadertoy](https://www.shadertoy.com/user/aiekick), [VertexShaderArt](https://www.vertexshaderart.com/user/aiekick), [Artstation](https://aiekick.artstation.com/), [Sketchfab](https://sketchfab.com/Aiekick/models), [Vimeo](https://vimeo.com/aielevel), [linkedin](https://www.linkedin.com/in/aiekick/), [OpenSea (NFT)](https://opensea.io/accounts/Aiekick), [itch.io](https://aiekick.itch.io), [Savee](https://savee.it/aiekick/), [StackOverFlow](https://stackoverflow.com/users/3904977/aiekick), [Mastodon](https://mastodon.gamedev.place/@aiekick), [TikTok](https://www.tiktok.com/@aiekickk)
 
 Via Discord : Aiekick#5751
 
