@@ -13,7 +13,7 @@ How to reach me: : [Twitter](https://twitter.com/aiekick), [Instagram](https://w
 
 Via Discord : Aiekick#5751
 
-If you want discuss with me, you can contact me via this [mail](mailto:aiekick@funparadigm.com) :)
+If you want discuss with me, you can contact me via this [mail](mailto:github@funparadigm.com) :)
 
 you can donate if you want support me (two ways for that, the classic button or QR code)
 
