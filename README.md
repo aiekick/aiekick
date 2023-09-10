@@ -2,8 +2,23 @@
 
 I'm a self learning french dev who like to do many sort of things on my spare time :
 * Procedural stuff (by code or nodes) : vfx, 3d models, textures, etc...
-* Write softwares for artist ([NoodlesPlate](https://github.com/aiekick/NoodlesPlate), [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner), [Lumo](https://github.com/aiekick/Lumo), [SdfMesher](https://github.com/aiekick/SdfMesher_Models), [wxShade](https://github.com/aiekick/wxShade))
-* Write softwares and libs for made the developper life easier  ([ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio), [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog), [cTools](https://github.com/aiekick/cTools), [MagicaVoxel_File_Writer](https://github.com/aiekick/MagicaVoxel_File_Writer), [MagicaVoxel_File_Writer for rust](https://crates.io/crates/vox_writer), [GlslOptimizerV2](https://github.com/aiekick/GlslOptimizerV2), [ImTools](https://github.com/aiekick/ImTools), [LogToGraph](https://github.com/aiekick/LogToGraph), [DBCHelper](https://github.com/aiekick/DBCHelper), [ImCoolBar](https://github.com/aiekick/ImCoolBar))
+* Write softwares for artist :
+  * [NoodlesPlate](https://github.com/aiekick/NoodlesPlate) : A full featured GLSL offline shader editor
+  * [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) : A Sdf font bitmap generator by GLSLM Shaders
+  * [Lumo](https://github.com/aiekick/Lumo) : A Presentation / Experiments software around 3d models (WIP)
+  * [SdfMesher](https://github.com/aiekick/SdfMesher_Models) : A Sdf Mesher : convertsion of glsl sdf shaders to meshs (WIP / NOT RELEASED)
+  * [wxShade](https://github.com/aiekick/wxShade)) : A WxWidgets based GLSL Offline Shader Editor
+* Write softwares and libs for made the developper life easier :
+  * [ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : A font subsetting tool for embed fonts in your Dear ImImGui based software
+  * [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog) : A full featured file dialog for Dear ImGui
+  * [cTools](https://github.com/aiekick/cTools) : A collection of tools im using since 2010
+  * [MagicaVoxel_File_Writer](https://github.com/aiekick/MagicaVoxel_File_Writer) : A very easy MagicaVoxel file format writer. with animation support 
+  * [MagicaVoxel_File_Writer for rust](https://crates.io/crates/vox_writer) : A very easy MagicaVoxel file format writer for rust/lang.
+  * [GlslOptimizerV2](https://github.com/aiekick/GlslOptimizerV2) : A GlslOptimizer based on the mesa project for optimized glsl shaders with many options
+  * [ImTools](https://github.com/aiekick/ImTools) : a set of tools for use with Dear ImGui like a easy layouting system for DearImGui/Docking
+  * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between to MarkTimes 
+  * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
+  * [ImCoolBar](https://github.com/aiekick/ImCoolBar)) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
 * Write plugins for [Blender3D](https://www.blender.org/) : [My revisions](https://developer.blender.org/people/revisions/130650/)
 * Or just for fun haha
 
@@ -24,3 +39,4 @@ you can donate if you want support me (two ways for that, the classic button or 
 Enjoy :)
 
 ![Aiekick's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiekick&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiekick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+d mode
