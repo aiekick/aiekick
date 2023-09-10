@@ -7,7 +7,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) : A Unique Sdf font bitmap generator by GLSL Shaders
   * [Lumo](https://github.com/aiekick/Lumo) : A Presentation / Experiments software around 3d models (WIP)
   * [SdfMesher](https://github.com/aiekick/SdfMesher_Models) : A Sdf Mesher : conversion of glsl shaders to meshs (WIP / NOT RELEASED)
-  * [wxShade](https://github.com/aiekick/wxShade)) : A WxWidgets based GLSL Offline Shader Editor
+  * [wxShade](https://github.com/aiekick/wxShade) : A WxWidgets based GLSL Offline Shader Editor
 * Write softwares and libs for made the developper life easier :
   * [ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : A font subsetting tool for embbed fonts in your DearImGui based software
   * [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog) : A full featured file dialog for Dear ImGui
