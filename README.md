@@ -39,4 +39,3 @@ you can donate if you want support me (two ways for that, the classic button or 
 Enjoy :)
 
 ![Aiekick's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiekick&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiekick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-d mode
