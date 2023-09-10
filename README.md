@@ -18,7 +18,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [ImTools](https://github.com/aiekick/ImTools) : a set of tools for use with Dear ImGui like a easy layouting system for DearImGui/Docking
   * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between to MarkTimes 
   * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
-  * [ImCoolBar](https://github.com/aiekick/ImCoolBar)) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
+  * [ImCoolBar](https://github.com/aiekick/ImCoolBar) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
 * Write plugins for [Blender3D](https://www.blender.org/) : [My revisions](https://developer.blender.org/people/revisions/130650/)
 * Or just for fun haha
 
