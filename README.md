@@ -3,7 +3,7 @@
 I'm a self learning french dev who like to do many sort of things on my spare time :
 * Procedural stuff (by code or nodes) : vfx, 3d models, textures, etc...
 * Write softwares for artist :
-  * [Lumo](https://github.com/aiekick/Lumo) : A Presentation / Experiments software around 3d models (WIP)
+  * [Lumo](https://github.com/aiekick/Lumo) : A Node based Presentation / Experiments software around 3d models (WIP)
   * [NoodlesPlate](https://github.com/aiekick/NoodlesPlate) : A full featured easy to use GLSL offline shader editor
   * [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) : A Unique Sdf font bitmap generator by GLSL Shaders
   * [SdfMesher](https://github.com/aiekick/SdfMesher_Models) : A Sdf Mesher : conversion of glsl shaders to meshs (WIP / NOT RELEASED)
