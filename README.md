@@ -23,7 +23,6 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
 * Write plugins for [Blender3D](https://www.blender.org/) : [My revisions](https://developer.blender.org/people/revisions/130650/)
 * Miscs :
   * [MdlToObj](https://github.com/aiekick/MdlToObj) : STK(AGI)/Mdl converter to WaveFront Obj File format
-* Or just for fun haha
 
 I was working with the Studio [Moonray PBC](https://www.linkedin.com/company/moonraygame/) on the video game's [Moonray](https://www.moonray.game) and [Journey to Moonray](https://store.steampowered.com/app/1629510/Journey_to_Moonray/) as a VFX artist
 
