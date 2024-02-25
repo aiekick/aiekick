@@ -28,7 +28,23 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
 
 I was working with the Studio [Moonray PBC](https://www.linkedin.com/company/moonraygame/) on the video game's [Moonray](https://www.moonray.game) and [Journey to Moonray](https://store.steampowered.com/app/1629510/Journey_to_Moonray/) as a VFX artist
 
-How to reach me: : [Twitter](https://twitter.com/aiekick), [Instagram](https://www.instagram.com/aiekick), [Shadertoy](https://www.shadertoy.com/user/aiekick), [VertexShaderArt](https://www.vertexshaderart.com/user/aiekick), [Artstation](https://aiekick.artstation.com/), [Sketchfab](https://sketchfab.com/Aiekick/models), [Vimeo](https://vimeo.com/aielevel), [linkedin](https://www.linkedin.com/in/aiekick/), [OpenSea (NFT)](https://opensea.io/accounts/Aiekick), [itch.io](https://aiekick.itch.io), [Savee](https://savee.it/aiekick/), [StackOverFlow](https://stackoverflow.com/users/3904977/aiekick), [Mastodon](https://mastodon.gamedev.place/@aiekick), [TikTok](https://www.tiktok.com/@aiekickk), [fxhash (NFT)](https://www.fxhash.xyz/u/Aiekick), [BlueSky](https://bsky.app/profile/aiekick.bsky.social)
+How to reach me: : 
+ * [Twitter](https://twitter.com/aiekick) : My main social network where i share many art stuff
+ * [Instagram](https://www.instagram.com/aiekick), : My second social network where i share many of my best experiments
+ * [Shadertoy](https://www.shadertoy.com/user/aiekick) : A WebGl Fragment Shader Sharing network where i have experiment more than 500 shaders sice 2013
+ * [VertexShaderArt](https://www.vertexshaderart.com/user/aiekick) : A WebGl Veretx Shader Sharing network
+ * [Artstation](https://aiekick.artstation.com/) : A social network for professional artists where i share my more advanced stuff
+ * [Sketchfab](https://sketchfab.com/Aiekick/models) : A platform where i share all my 3D Procedurals models (213 dowloadable models atm) meshed with my Softs SDFMesher, Lumo and Noodlesplate
+ * [Vimeo](https://vimeo.com/aielevel) : A video Sharing network where i share my workflow or many realtime vfx
+ * [linkedin](https://www.linkedin.com/in/aiekick/) : A professional network where i share my Carreer
+ * [OpenSea (NFT)](https://opensea.io/accounts/Aiekick) : A NFT platform where i share some of my best artworks as NFT
+ * [itch.io](https://aiekick.itch.io) : A software sharing platform where you can found SdfFontdesigner for now
+ * [Savee](https://savee.it/aiekick/) : A Art sharing platform
+ * [StackOverFlow](https://stackoverflow.com/users/3904977/aiekick) : A Developper Social netwokr
+ * [Mastodon](https://mastodon.gamedev.place/@aiekick) : A social network replacement for twitter
+ * [BlueSky](https://bsky.app/profile/aiekick.bsky.social) : A social network replacement for twitter
+ * [TikTok](https://www.tiktok.com/@aiekickk) : where i share many art stuff
+ * [fxhash (NFT)](https://www.fxhash.xyz/u/Aiekick) : A NFT sharing tunable artwork
 
 Via Discord : Aiekick#5751
 
