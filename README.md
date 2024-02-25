@@ -14,6 +14,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [cTools](https://github.com/aiekick/cTools) : A collection of tools im using since 2010
   * [MagicaVoxel_File_Writer (CPP)](https://github.com/aiekick/MagicaVoxel_File_Writer) : A very easy MagicaVoxel file format writer. with animation support 
   * [MagicaVoxel_File_Writer (RUST)](https://crates.io/crates/vox_writer) : A very easy MagicaVoxel file format writer for rust/lang.
+  * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
   * [GlslOptimizerV2](https://github.com/aiekick/GlslOptimizerV2) : A GlslOptimizer based on the mesa project for optimized glsl shaders with many options
   * [ImTools](https://github.com/aiekick/ImTools) : a set of tools for use with Dear ImGui like a easy layouting system for DearImGui/Docking
   * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between two Marktimes 
