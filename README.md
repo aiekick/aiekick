@@ -8,6 +8,9 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) : A Unique Sdf font bitmap generator by GLSL Shaders
   * [SdfMesher](https://github.com/aiekick/SdfMesher_Models) : A Sdf Mesher : conversion of glsl shaders to meshs (WIP / NOT RELEASED)
   * [wxShade](https://github.com/aiekick/wxShade) : A easy to use WxWidgets based GLSL Offline Shader Editor
+* Write productivity softwares :
+  * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between two Marktimes 
+  * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
 * Write softwares and libs for made the developper life easier :
   * [ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : A font subsetting tool for embbed fonts in your DearImGui based software
   * [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog) : A full featured file dialog for Dear ImGui
@@ -17,8 +20,6 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
   * [GlslOptimizerV2](https://github.com/aiekick/GlslOptimizerV2) : A GlslOptimizer based on the mesa project for optimized glsl shaders with many options
   * [ImTools](https://github.com/aiekick/ImTools) : a set of tools for use with Dear ImGui like a easy layouting system for DearImGui/Docking
-  * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between two Marktimes 
-  * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
   * [ImCoolBar](https://github.com/aiekick/ImCoolBar) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
   * [InAppGpuProfiler](https://github.com/aiekick/InAppGpuProfiler) : A In App Gpu Profiler to Embed in your Dear Imgui App
 * Write plugins for [Blender3D](https://www.blender.org/) : [My revisions](https://developer.blender.org/people/revisions/130650/)
