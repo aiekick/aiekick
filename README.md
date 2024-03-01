@@ -23,8 +23,8 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [InAppGpuProfiler](https://github.com/aiekick/InAppGpuProfiler) : A In App Gpu Profiler to Embed in your Dear Imgui App
   * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
 * Write plugins for [Blender3D](https://www.blender.org/) :
-  * [Torus Node] : https://archive.blender.org/developer/D11787 (with twisting who can produce one uv map)
-  * [Parametric Node] : https://archive.blender.org/developer/D11838
+  * [Torus Node with one uv map possible case](https://archive.blender.org/developer/D11787)
+  * [Parametric Node](https://archive.blender.org/developer/D11838)
 * Miscs :
   * [MdlToObj](https://github.com/aiekick/MdlToObj) : STK(AGI)/Mdl converter to WaveFront Obj File format
 
