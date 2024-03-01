@@ -17,12 +17,14 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [cTools](https://github.com/aiekick/cTools) : A collection of tools im using since 2010
   * [MagicaVoxel_File_Writer (CPP)](https://github.com/aiekick/MagicaVoxel_File_Writer) : A very easy MagicaVoxel file format writer. with animation support 
   * [MagicaVoxel_File_Writer (RUST)](https://crates.io/crates/vox_writer) : A very easy MagicaVoxel file format writer for rust/lang.
-  * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
   * [GlslOptimizerV2](https://github.com/aiekick/GlslOptimizerV2) : A GlslOptimizer based on the mesa project for optimized glsl shaders with many options
   * [ImTools](https://github.com/aiekick/ImTools) : a set of tools for use with Dear ImGui like a easy layouting system for DearImGui/Docking
   * [ImCoolBar](https://github.com/aiekick/ImCoolBar) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
   * [InAppGpuProfiler](https://github.com/aiekick/InAppGpuProfiler) : A In App Gpu Profiler to Embed in your Dear Imgui App
-* Write plugins for [Blender3D](https://www.blender.org/) : [My revisions](https://developer.blender.org/people/revisions/130650/)
+  * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
+* Write plugins for [Blender3D](https://www.blender.org/) :
+  * [Torus Node] : https://archive.blender.org/developer/D11787 (with twisting who can produce one uv map)
+  * [Parametric Node] : https://archive.blender.org/developer/D11838
 * Miscs :
   * [MdlToObj](https://github.com/aiekick/MdlToObj) : STK(AGI)/Mdl converter to WaveFront Obj File format
 
