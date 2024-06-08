@@ -48,6 +48,7 @@ How to reach me: :
  * [TikTok](https://www.tiktok.com/@aiekickk) : where i share many art stuff
  * [fxhash (NFT)](https://www.fxhash.xyz/u/Aiekick) : A NFT sharing tunable artwork
  * [Threads](https://www.threads.net/@aiekick) : Like twitter
+ * [Cara](https://cara.app/aiekick) : A Social network for artists (Anti-AI)
 
 Via Discord : Aiekick#5751
 
