@@ -11,7 +11,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
 * Write productivity softwares :
   * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between two Marktimes 
   * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
-  * [CashMe](https://github.com/aiekick/CashMe : A Money Manager
+  * [CashMe](https://github.com/aiekick/CashMe) : A Money Manager
 * Write softwares and libs for made the developper life easier :
   * [ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : A font subsetting tool for embbed fonts in your DearImGui based software
   * [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog) : A full featured file dialog for Dear ImGui
