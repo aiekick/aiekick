@@ -23,7 +23,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [ImCoolBar](https://github.com/aiekick/ImCoolBar) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
   * [InAppGpuProfiler](https://github.com/aiekick/InAppGpuProfiler) : A In App Gpu Profiler to Embed in your Dear Imgui App
   * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
-  * [EzExpr] : A Easy to use and flexible math expression parser / evaluator in a one file header only 
+  * [EzExpr](https://github.com/aiekick/EzExpr) : A Easy to use and flexible math expression parser / evaluator in a one file header only 
 * Write plugins for [Blender3D](https://www.blender.org/) :
   * [Torus Node with one uv map possible case](https://archive.blender.org/developer/D11787)
   * [Parametric Node](https://archive.blender.org/developer/D11838)
