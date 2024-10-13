@@ -51,6 +51,7 @@ How to reach me: :
  * [fxhash (NFT)](https://www.fxhash.xyz/u/Aiekick) : A NFT sharing tunable artwork
  * [Threads](https://www.threads.net/@aiekick) : Like twitter
  * [Cara](https://cara.app/aiekick) : A Social network for artists (Anti-AI)
+ * [Makerworld](https://makerworld.com/fr/@aiekick) : 3d print projects
 
 Via Discord : Aiekick#5751
 
