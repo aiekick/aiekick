@@ -36,7 +36,7 @@ How to reach me: :
  * [Twitter](https://twitter.com/aiekick) : My main social network where i share many art stuff
  * [Instagram](https://www.instagram.com/aiekick), : My second social network where i share many of my best experiments
  * [Shadertoy](https://www.shadertoy.com/user/aiekick) : A WebGl Fragment Shader Sharing network where i have experiment more than 500 shaders sice 2013
- * [VertexShaderArt](https://www.vertexshaderart.com/user/aiekick) : A WebGl Veretx Shader Sharing network
+ * [VertexShaderArt](https://www.vertexshaderart.com/?q=aiekick) : A WebGl Veretx Shader Sharing network
  * [Artstation](https://aiekick.artstation.com/) : A social network for professional artists where i share my more advanced stuff
  * [Sketchfab](https://sketchfab.com/Aiekick/models) : A platform where i share all my 3D Procedurals models (213 dowloadable models atm) meshed with my Softs SDFMesher, Lumo and Noodlesplate
  * [Vimeo](https://vimeo.com/aielevel) : A video Sharing network where i share my workflow or many realtime vfx
