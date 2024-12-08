@@ -13,6 +13,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
   * [CashMe](https://github.com/aiekick/CashMe) : A Money Manager
 * Write softwares and libs for made the developper life easier :
+  * [BuildInc](https://github.com/aiekick/BuildInc) : A too for auto increment a header file with a buildnumber and many other informations to include in your c/cpp project
   * [ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : A font subsetting tool for embbed fonts in your DearImGui based software
   * [ImGuIFileDialog](https://github.com/aiekick/ImGuiFileDialog) : A full featured file dialog for Dear ImGui
   * [cTools](https://github.com/aiekick/cTools) : A collection of tools im using since 2010
