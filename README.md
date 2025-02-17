@@ -26,8 +26,8 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
   * [EzExpr](https://github.com/aiekick/EzExpr) : A Easy to use and flexible math expression parser / evaluator in a one file header only
   * [EzLibs](https://github.com/aiekick/EzLibs) : A Easy to use collection of cpp11 header-only libs for many usage (will replacing ctools)
-  * [Gearbar](https://github.com/aiekick/GearBar) : A VsCode extention for quickly enable/disable vscode settings via a button in the statusbar
-  * [PlantUml-switcher](https://github.com/aiekick/plantuml-switcher) : A VsCode extention for quickly swicth PlantUml relations where mouse cursor is by just pressing a key, for speedup PlantUml layouting
+  * [Gearbar](https://marketplace.visualstudio.com/items?itemName=aiekick.gearbar) : A VsCode extention for quickly enable/disable vscode settings via a button in the statusbar
+  * [PlantUml-switcher](https://marketplace.visualstudio.com/items?itemName=aiekick.plantuml-switcher) : A VsCode extention for quickly swicth PlantUml relations where mouse cursor is by just pressing a key, for speedup PlantUml layouting
 * Write plugins for [Blender3D](https://www.blender.org/) :
   * [Torus Node with one uv map possible case](https://archive.blender.org/developer/D11787)
   * [Parametric Node](https://archive.blender.org/developer/D11838)
