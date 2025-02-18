@@ -24,7 +24,6 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [ImCoolBar](https://github.com/aiekick/ImCoolBar) : A Fun ToolBar for DearImGui for imitate the well known MacOs bubble effect of DockBars
   * [InAppGpuProfiler](https://github.com/aiekick/InAppGpuProfiler) : A In App Gpu Profiler to Embed in your Dear Imgui App
   * [VdbWriter](https://github.com/aiekick/VdbWriter) : A specific and limited small lib for write OpenVDB file format
-  * [EzExpr](https://github.com/aiekick/EzExpr) : A Easy to use and flexible math expression parser / evaluator in a one file header only
   * [EzLibs](https://github.com/aiekick/EzLibs) : A Easy to use collection of cpp11 header-only libs for many usage (will replacing ctools)
   * [Gearbar](https://marketplace.visualstudio.com/items?itemName=aiekick.gearbar) : A VsCode extention for quickly enable/disable vscode settings via a button in the statusbar
   * [PlantUml-switcher](https://marketplace.visualstudio.com/items?itemName=aiekick.plantuml-switcher) : A VsCode extention for quickly swicth PlantUml relations where mouse cursor is by just pressing a key, for speedup PlantUml layouting
