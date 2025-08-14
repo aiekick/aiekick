@@ -12,6 +12,7 @@ I'm a self learning french dev who like to do many sort of things on my spare ti
   * [LogToGraph](https://github.com/aiekick/LogToGraph) : A soft for convert signals based logs in graphs via a lua parsing script. can diff a signal between two Marktimes 
   * [DBCHelper](https://github.com/aiekick/DBCHelper) : A soft for merge DBC's (CAN Database file), and show errors in a easy and ergonomic way
   * [CashMe](https://github.com/aiekick/CashMe) : A Money Manager
+  * [ezSqlite](https://github.com/aiekick/ezSqlite) : A lite sqlite editor 
 * Write softwares and libs for made the developper life easier :
   * [BuildInc](https://github.com/aiekick/BuildInc) : A too for auto increment a header file with a buildnumber and many other informations to include in your c/cpp project
   * [ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : A font subsetting tool for embbed fonts in your DearImGui based software
